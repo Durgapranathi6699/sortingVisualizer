@@ -12,6 +12,7 @@ body {
     height: 500px;
     justify-content: center;
     transition: 2s all ease;
+    align-items:flex-end;
 }
 
 .flex-item{
